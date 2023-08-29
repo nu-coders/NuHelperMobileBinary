@@ -22,7 +22,7 @@ ___
 
 ### 4 - Are you a frog?
 
-- I am a prestigious frog. I wear only suits, drink tea every day and ead english cake with my mates.
+- I am a prestigious frog. I wear only suits, drink tea every day and eat english cake with my mates.
   
   ![YES](https://i.imgur.com/HiVL5lZ.jpg)
 
