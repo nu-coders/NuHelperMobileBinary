@@ -88,5 +88,9 @@ If you really hate it and for unknown reason you should use it I advice you to u
 Mail : <dev@nucoders.dev>
 
 We don't steal or store any personal information.
+We are not responssible for any damage.
+This app was created to help students, doctors and TAs.
+Created for educational purposes.
+I love Potato.
 
 ![YES](https://i.imgur.com/G1RycFw.jpg)
